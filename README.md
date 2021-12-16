@@ -1,6 +1,6 @@
-# Login and Register using SharedPreferences
+# Object Serialization With Client-Server
 
-> This project is dedicated to midterm exams of mobile programming courses
+> This project is dedicated to midterm exams of distributed system courses
 
 ---
 
@@ -9,7 +9,6 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [Activity](#activity)
 - [Technology](#technologies)
 - [Developer](#developer)
 
@@ -17,26 +16,18 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-- Validation of Data Registration
-- SharedPreferences memory
-- Registration form scrollable
-- Splashscreen show up when application running for the first time
+- Input Data From Keyboard
+- Client Input Data
+- Server sending data to file UTSNo1.txt
 
-## Activity
-
-- SplashScreenActivity
-- LoginActivity
-- RegisterActivity
-- ProfileActivity
-- DetailActivity
 
 #### Technologies
 
-- Android Studio
+- Apache NetBeans 12.5
 - Java 17.1
 - jdk 17
 
-[Back To The Top](#login-and-register-using-sharedpreferences)
+[Back To The Top](#objectserialization-with-client-server)
 
 ---
 
